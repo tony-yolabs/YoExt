@@ -1,0 +1,24 @@
+PODS:
+  - Split (2.8.0)
+  - YoExt (0.1.0):
+    - Split (~> 2.8.0)
+
+DEPENDENCIES:
+  - Split (~> 2.8.0)
+  - YoExt (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Split
+
+EXTERNAL SOURCES:
+  YoExt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Split: f9a62c7fcd043b7583f4e40dd07fb2409d2a9ca5
+  YoExt: 8bb6667e5ebcceadb112a4274dcdfecdb33e24af
+
+PODFILE CHECKSUM: 20db44e6018a133807bbef80a5ae23a803b233c3
+
+COCOAPODS: 1.10.1

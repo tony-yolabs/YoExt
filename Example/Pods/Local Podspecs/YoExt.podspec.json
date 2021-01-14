@@ -1,0 +1,28 @@
+{
+  "name": "YoExt",
+  "version": "0.1.0",
+  "summary": "A short description of YoExt.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ttt/YoExt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ttt": "tony@yolabs.io"
+  },
+  "source": {
+    "git": "https://github.com/ttt/YoExt.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "YoExt/**/*",
+  "public_header_files": "YoExt//**/*.h",
+  "dependencies": {
+    "Split": [
+      "~> 2.8.0"
+    ]
+  }
+}

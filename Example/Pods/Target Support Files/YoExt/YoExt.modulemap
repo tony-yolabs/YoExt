@@ -1,0 +1,6 @@
+framework module YoExt {
+  umbrella header "YoExt-umbrella.h"
+
+  export *
+  module * { export * }
+}

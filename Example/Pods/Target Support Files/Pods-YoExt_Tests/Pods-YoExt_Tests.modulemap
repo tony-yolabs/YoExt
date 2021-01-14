@@ -1,0 +1,6 @@
+framework module Pods_YoExt_Tests {
+  umbrella header "Pods-YoExt_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,6 +1,8 @@
 use_frameworks!
+platform :ios, '12.0'
+
+pod 'Split', '~>2.8.0'
+
 target 'YoExt_Tests' do
   pod 'YoExt', :path => '../'
-  
-  
 end
