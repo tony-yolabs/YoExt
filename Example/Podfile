@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YoExt_Tests' do
+  pod 'YoExt', :path => '../'
+  
+  
+end
